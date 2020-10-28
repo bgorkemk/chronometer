@@ -1,0 +1,21 @@
+# chronometer
+Chronometer that have circular progress bar. You can start/stop, set alarm with sound.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{sp}+
+> *Uygulama*
+{sp}+
+{sp}+
+image:https://i.imgur.com/C93klA4.png[alt="uygulama1"]
+
+{sp}+
+> *2 dakika timer ayarlanmış, program çalışırken kaç dakika ve saniye kaldığı circular progress bar ile, yüzdelik olarak ve yazı olarak gösterilmekte*
+{sp}+
+{sp}+
+image:https://i.imgur.com/gLX3kHk.png[alt="uygulama2"]
+
+{sp}+
+> *Pause/start ve dilenirse belli bir saniye kala sesle uyarı özelliği*
+{sp}+
+{sp}+
+image:https://i.imgur.com/3osjXP7.png[alt="uygulama"]
