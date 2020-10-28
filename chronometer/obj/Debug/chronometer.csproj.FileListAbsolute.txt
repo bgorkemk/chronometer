@@ -1,0 +1,14 @@
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\chronometer.exe.config
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\chronometer.exe
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\chronometer.pdb
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.csprojResolveAssemblyReference.cache
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.Properties.Resources.resources
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.csproj.GenerateResource.Cache
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.exe
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.pdb
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.Chronometer.resources
+D:\Workspace.Visual Studio\chronometer\chronometer\obj\Debug\chronometer.csproj.CoreCompileInputs.cache
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\CircularProgressBar.dll
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\WinFormAnimation.dll
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\CircularProgressBar.xml
+D:\Workspace.Visual Studio\chronometer\chronometer\bin\Debug\WinFormAnimation.xml
